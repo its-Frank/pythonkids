@@ -53,11 +53,14 @@ print(a == b) # False
 
 
 '''
-### Teaching Tips
-- **Order Matters**: Start with variables, then data types, operators, lists, tuples, sets, dictionaries, loops, 
-and functions—build step-by-step.
-- **Keep it Fun**: Use examples like foods or friends to make it relatable.
-- **Hands-On**: Let kids change values (e.g., add their favorite food to the list) and run the code.
-- **AI Connection**: Explain that loops and functions help AI repeat tasks, and NumPy/Pandas handle big data for AI to learn from.
-
+Questions
+1. # Task: Create variables for your name, age, and favorite color.
+# Then print each one.
+2.  Task: Create two numbers (x and y), then print:
+# - Their sum
+# - Their difference
+# - Their product
+# - Their division
+3. # Task: Create two variables (num1 and num2).
+# Then print if they are equal, not equal, and which is greater.
 '''

@@ -82,3 +82,23 @@ print(student)         # See the updated dictionary
 - You can change values by assigning a new one.
 
 '''
+'''
+Questions
+1. Create a list of 3 favorite animals.
+Then:
+Print the full list.
+Print the second animal.
+Add one more animal using .append() and print the new list.
+
+2. Create a tuple called location with two numbers (like coordinates: 7, 9).
+Then:
+Print the whole tuple.
+Print just the second number.
+Try to change one number. What error do you get?
+
+3. Create a dictionary for yourself with keys "name", "age", and "hobby".
+Then:
+Print your name from the dictionary.
+Change your hobby to something new.
+Print the full updated dictionary.
+'''

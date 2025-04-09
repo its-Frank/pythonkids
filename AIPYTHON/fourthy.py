@@ -35,3 +35,15 @@ def greet_friend(name, age):
 
 greet_friend("Zara", 14)
 
+'''
+Questions:
+1. Create a function called greet_me() that takes no parameters.
+Inside, print a message like: "Hello! I'm learning Python!"
+Then, call the function.
+
+2. Create a function called birthday_message(name) that prints:
+"Happy Birthday, <name>!"
+
+3. Create a function called double_number(n) that prints double the number given.
+
+'''

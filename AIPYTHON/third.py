@@ -9,7 +9,6 @@ Less than or equal to: a <= b
 Greater than: a > b
 Greater than or equal to: a >= b
 These conditions can be used in several ways, most commonly in "if statements" and loops.
-
 An "if statement" is written by using the if keyword.
 '''
 #Example
@@ -29,7 +28,6 @@ if b > a:
   print("b is greater than a")
 elif a == b:
   print("a and b are equal")
-
 ### Else
 '''
 The else keyword catches anything which isn't caught by the preceding conditions.
@@ -43,15 +41,10 @@ elif a == b:
   print("a and b are equal")
 else:
   print("a is greater than b")
-
 '''
 In this example a is greater than b, so the first condition is not true, also the elif condition is not true,
  so we go to the else condition and print to screen that "a is greater than b".
 '''
-
-
-
-
 #### 9. Loops
 '''
 - Loops let you repeat things without writing the same code over and over.
@@ -90,3 +83,16 @@ rectangles = [(8, 4), (5, 3), (10, 2)]  # List of tuples (length, width)
 for length, width in rectangles:
     area = length * width
     print("Area of", length, "x", width, "is", area)
+
+
+'''
+Questions
+1. Ask the user for a number.
+Then print whether it is even or odd using % (modulus operator).
+
+2. You’re given a list of rectangles.
+Print the area of each one, but only if the area is greater than 20.
+
+3. Write a while loop that counts up from 1 to 5.
+When it gets to 5, print "Done!".
+'''

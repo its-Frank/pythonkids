@@ -29,3 +29,13 @@ print("Sum:", np.sum(numbers))        # Add them all up
 - `numbers * 3` multiplies every number at once.
 - `np.sum()` adds everything together.
 '''
+
+'''
+1. Use np.array() to create an array with these numbers: 10, 20, 30.
+Print the array.
+2. Make a NumPy array with [4, 7, 6, 3].
+Then use np.sum() to print the total.
+3. Create an array of numbers: [2, 4, 6]
+Multiply every number in the array by 5, and print the new result.
+
+'''
